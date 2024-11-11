@@ -3,8 +3,16 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jimmxyz&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j" height="150" alt="streak graph"  />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jimmxyz&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j"/>
+  <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/jimmxyz/jimmxyz/output/github-snake.svg](https://streak-stats.demolab.com?user=jimmxyz&locale=en&mode=weekly&theme=default&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j)" />
+  <img src="https://streak-stats.demolab.com?user=jimmxyz&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j" height="150" alt="streak graph"/>
+</picture>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="[https://streak-stats.demolab.com?user=jimmxyz&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j](https://github-readme-stats.vercel.app/api/top-langs?username=jimmxyz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true)"/>
+  <source media="(prefers-color-scheme: light)" srcset="[[https://raw.githubusercontent.com/jimmxyz/jimmxyz/output/github-snake.svg](https://streak-stats.demolab.com?user=jimmxyz&locale=en&mode=weekly&theme=default&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j)](https://github-readme-stats.vercel.app/api/top-langs?username=jimmxyz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=graywhite&hide_border=true)" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jimmxyz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+</picture>
 </div>
 
 ###
