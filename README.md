@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jimmxyz&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j" height="150" alt="streak graph"  />
+  <img media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jimmxyz&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jimmxyz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
@@ -26,9 +26,9 @@
 <br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jimmxyz/jimmxyz/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jimmxyz/jimmxyz/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jimmxyz/jimmxyz/output/github-snake.svg" />
 </picture>
 
 ###
