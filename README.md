@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm a beginers who enjoy IT</h2>
+<h2 align="center">Hi ! This is my profile</h2>
 
 ###
 
