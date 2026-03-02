@@ -2,7 +2,7 @@
 
 ###
 
-  ![Language Stats](stats/leaderboard_by_weighted.png)
+  ![Language Stats](stats/horizontal_bar_by_weighted.png)
 
 
 ###
